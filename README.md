@@ -8,7 +8,7 @@ How To Run
 
 Use the provided Makefile
 
-Description:
+Description
 ------------
 
 This is a Chat Server/Client with built-in RSA encryption written in Python. This program uses p2p (peer-to-peer) and not full duplex connecions.
