@@ -22,5 +22,5 @@ keycracker.py is the Key Cracker program. This program has a menu from which the
 Collaborators
 -------------
 
-Built in collaboration with xbonez (http://github.com/xbonez)
+Built in collaboration with [xbonez](http://github.com/xbonez)
 
